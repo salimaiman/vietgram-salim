@@ -1,3 +1,0 @@
-# vietgram
-
-Tugas WEBPRO VIETGRAM
